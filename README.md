@@ -6,6 +6,13 @@ The project focuses on classifying diverse South Asian urban and cultural sounds
 
 ---
 
+## 🏗️ Model Architecture
+
+Below is the architecture of the proposed SAS-CNN model used in this study.
+
+![SAS-CNN Architecture](model_architecture.png)
+---
+---
 ## ✨ Key Highlights
 
 -   Audio recordings are preprocessed and segmented into standardized 4-second clips.
@@ -41,17 +48,9 @@ This repository contains the Python scripts for the complete pipeline:
 -   Implementation of the 1D-CNN (SAS-CNN) model.
 -   Scripts for model training, evaluation, and inference.
 
-> **Note:** This repository contains research code and is not a deployable system.
 
 ---
 
-## 🏗️ Model Architecture
-
-Below is the architecture of the proposed SAS-CNN model used in this study.
-
-![SAS-CNN Architecture](path/to/your/model_image.png)
-
----
 
 ## 📄 Citation
 
