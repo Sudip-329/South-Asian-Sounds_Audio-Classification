@@ -39,6 +39,8 @@ This research makes the following contributions:
 -   **Published Paper (IEEE Xplore):** [`https://ieeexplore.ieee.org/document/10829485`](https://ieeexplore.ieee.org/document/10829485)
 -   **SAS-KIIT Dataset:** [`https://sas-kiit.netlify.app/`](https://sas-kiit.netlify.app/)
 
+  ![Dataset](dataset.png)
+
 ---
 
 ## 💻 Code Overview
